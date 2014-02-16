@@ -1,7 +1,13 @@
-Components
+# Components
 ==========
 
-Visualforce components are a great way to create modular/reusable code. This repo will contain open-source components. Feel free to grab these and use them in your projects. 
+>Code should be modular and reusable
 
-++ OrdinalNumbers 
-  Get the ordinal number for any integer, for example it will convert 1 to 1st, and 5 to 5th. Has demo page, and 100% coverage for tests
+
+
+### Visualforce components are a great way to build resuable block of UI. This repo is setup to share open-source components. 
+
+## Components
+* 
+  ## [Ordinal Numbers](https://github.com/ApexComponents/Components/tree/master/OrdinalNumbers)
+    *A utility component to translate an integer to its ordinal number, ie 1 to 1st*
