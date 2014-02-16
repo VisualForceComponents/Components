@@ -1,0 +1,4 @@
+<apex:component controller="TimeRemainingComponentController">
+	<apex:attribute assignTo="{!dateTimeValue}" description="" name="value" type="DateTime"></apex:attribute>
+	{!TimeUntil}
+</apex:component>

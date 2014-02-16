@@ -1,0 +1,14 @@
+<apex:page showHeader="true" sidebar="true" controller="ExampleTimeReaminingPageController">
+	<div>
+		<h1>Time Reamining Example Page</h1>
+	</div>
+	<div>
+		<h1> It is currently: {!now()} </h1>
+	</div>
+	<apex:repeat value="{!dateTimes}" var="dt">
+		<div>
+			<h2>Time remaining until: {!dt} is <c:TimeRemaining value="{!dt}"/></h2>
+		</div>
+	</apex:repeat>
+	
+</apex:page>
