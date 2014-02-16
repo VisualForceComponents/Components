@@ -1,0 +1,5 @@
+<apex:component controller="OrdinalNumberComponentController">
+  <apex:attribute name="value" assignTo="{!preFormattedNumber}" type="Integer" description="A component to translate an integer to its ordinal string"/>
+  {!ordinalNumber}
+</apex:component>
+

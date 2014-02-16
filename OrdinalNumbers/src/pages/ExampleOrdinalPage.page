@@ -1,0 +1,47 @@
+<apex:page showHeader="true" sidebar="true">
+	<div>
+		<h1>Ordinal Number Example</h1>
+	</div>
+	<div>
+		<h2>The ordinal value of "1" is : <c:OrdinalNumber value="1"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "2" is : <c:OrdinalNumber value="2"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "3" is : <c:OrdinalNumber value="3"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "4" is : <c:OrdinalNumber value="4"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "5" is : <c:OrdinalNumber value="5"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "6" is : <c:OrdinalNumber value="6"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "7" is : <c:OrdinalNumber value="7"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "8" is : <c:OrdinalNumber value="8"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "9" is : <c:OrdinalNumber value="9"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "10" is : <c:OrdinalNumber value="10"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "11" is : <c:OrdinalNumber value="11"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "152" is : <c:OrdinalNumber value="152"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "239" is : <c:OrdinalNumber value="239"/></h2>
+	</div>
+	<div>
+		<h2>The ordinal value of "501" is : <c:OrdinalNumber value="501"/></h2>
+	</div>
+</apex:page>
