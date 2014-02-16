@@ -8,7 +8,8 @@
      
      	The ordinal value of "1" is : <c:OrdinalNumber value="1"/>
      	result is "1st"
- * [Time Reamining](https://github.com/ApexComponents/Components/tree/master/TimeRemaining)
+
+  * [Time Reamining](https://github.com/ApexComponents/Components/tree/master/TimeRemaining)
     *A utility component to display the time remaining until a given datetime*
      	
      	Time remaining until: {!dateTimeValue} is <c:TimeRemaining value="{!dateTimeValue}"/>
